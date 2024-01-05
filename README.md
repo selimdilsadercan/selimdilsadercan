@@ -3,10 +3,7 @@
 <h1>Hi 👋, I'm Selim Dilşad Ercan</h1>
 <h3">Self Developing Product Creator from Turkiye.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/selimdilsadercn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selimdilsadercn" height="30" width="40" /></a>
-</p>
+---
 
 <h3 align="left">My Tool and Software Stack:</h3>
 
