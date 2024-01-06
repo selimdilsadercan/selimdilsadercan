@@ -1,11 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimdilsadercan&label=Profile%20views&color=0e75b6&style=flat" alt="selimdilsadercan" /> </p>
 
 <h1>Hi👋, I'm Selim Dilşad Ercan</h1>
-<h3">Self Developing Product Creator from Turkiye.</h3>
-
----
-
-<h3 align="left">My Tool and Software Stack:</h3>
+<p>Self Developing Product Creator from Turkiye.</p>
 
 <div align="left">
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
