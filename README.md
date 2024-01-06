@@ -1,5 +1,5 @@
 <h1>Hi👋, I'm Selim Dilşad Ercan</h1>
-<p>Self Developing Product Creator from Turkiye.</p>
+<p>Self Developing <b>Product Creator</b> from Turkiye.</p>
 
 <div align="left">
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
