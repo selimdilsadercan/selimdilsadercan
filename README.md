@@ -54,15 +54,6 @@
       alt="Figma" 
     />
   </span>
-
-  <span>
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/280px-Notion-logo.svg.png" 
-      width="28" 
-      height="28" 
-      alt="Notion" 
-    />
-  </span>
   
   <span>
     <img 
