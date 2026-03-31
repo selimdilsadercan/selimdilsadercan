@@ -1,5 +1,5 @@
 <h1>Hi👋, I'm Selim Dilşad Ercan</h1>
-<p>Self Developing <b>Product Creator</b> from Turkiye.</p>
+<p><b>Product Creator</b> from Turkiye.</p>
 
  <span>
     <img
@@ -25,15 +25,6 @@
       width="28"
       height="28"
       alt="TypeScript"
-    />
-  </span>
-  
-  <span>
-    <img 
-      src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-md.png" 
-      width="28" 
-      height="28"
-      alt="Tailwind"
     />
   </span>
 
